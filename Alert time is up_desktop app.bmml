@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="961" measuredH="278" mockupW="535" mockupH="232">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="426" y="46" w="-1" h="-1" measuredW="189" measuredH="195" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Facebook%20Chat%5Cr%20%5E%2C%20Online%0AGiacomo%20Guilizzoni%5Cr%2C%0AMarco%20Botton%5CrTuttofare%2C%0AMariah%20Maclachlan%5CrBetter%20Half%2C%0AValerie%20Liberty%5CrHead%20Chef%2C%20%0AGuido%20Jack%20Guilizzoni%2C%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Arrow" x="596" y="74" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Alert" x="761" y="161" w="-1" h="-1" measuredW="200" measuredH="117" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Alert%0AYour%20time%20is%20up%20now%09%0AOk</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
